@@ -45,7 +45,8 @@ The Untold Story
 
 <section class="hero">
   <h2>Streetwear From The Side That Raised Us</h2>
-  <p>Madala Side Apparel represents culture, hustle and untold stories from Pretoria, Soshanguve. Bold streetwear made for those who know where they come from.</p>
+  <p>Join the Madala Side movement and be part of community that's shaping the future!
+The story untold.</p>
 </section>
 
 <section class="section" id="shop">
