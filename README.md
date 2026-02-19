@@ -53,7 +53,7 @@ The story untold.</p>
   <h3>Shop Our Collection</h3>
   <div class="products">
     <div class="product">
-      <img src="tshirt.jpg" alt="(https://github.com/madalasideapparel-lgtm/madala-side-apparel/blob/7f538c8dc063529a48d7c79fbda51bb659c0207b/MS%20Logo%20T-shirt.jpeg)" />
+      <img src="tshirt.jpg" alt="(https://1drv.ms/f/c/e873d1ae9a372030/IgB6aaZGqw4eRKqtnwNahfbwAc31Z3Y9m73KCQUWmopIjmk?e=bq38Rf)" />
       <h4>Madala Side T-Shirt</h4>
       <p>Premium streetwear tee</p>
       <a href="https://wa.me/27722241345">Order on WhatsApp</a>
