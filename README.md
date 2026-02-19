@@ -82,7 +82,7 @@ The story untold.</p>
   <h3>Contact & Orders</h3>
   <p>Place your order directly via WhatsApp</p>
   <a href="https://wa.me/27722241345">Slime Bouy Kutlwano – 072 224 1345</a>
-  <a href="https://wa.me/27761251730">Wiizeyy / Teeman – 076 125 1730</a>
+  <a href="https://wa.me/27761251730">Wiizeyy-076 148 3261 / Teeman – 076 125 1730</a>
   <a href="https://wa.me/27796061388">Innocent – 079 606 1388</a>
 </section>
 
