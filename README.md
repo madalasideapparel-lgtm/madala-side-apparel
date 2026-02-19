@@ -87,7 +87,7 @@ The story untold.</p>
 </section>
 
 <footer>
-  © 2026 Madala Side Apparel · Pretoria, Soshanguve
+  © 2024 Madala Side Apparel · South Africa,Pretoria, Soshanguve.
 </footer>
 
 </body>
