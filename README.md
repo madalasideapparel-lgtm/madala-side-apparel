@@ -75,7 +75,17 @@ The story untold.</p>
 
 <section class="section about" id="about">
   <h3>About Madala Side</h3>
-  <p>Born in Pretoria, Soshanguve, Madala Side Apparel is more than clothing. It’s identity, roots, and pride. Every piece tells a story that was never told.</p>
+  <p>Madala Side apparel is more than just clothing; it's a statement of individuality and confidence. We unite streetwear, luxury youth fashion, and unisex styles, creating pieces that blend urban culture with rich African heritage. Our T-shirts, hoodies, and custom apparel are crafted for comfort, quality, and undeniable style, designed to empower you for every moment, from casual meetups to vibrant street events.
+
+
+
+Join the Madala Side Movement and be part of the community that's shaping the future!
+
+                                          THE STORY UNTOLD
+
+
+
+.</p>
 </section>
 
 <section class="section contact" id="contact">
